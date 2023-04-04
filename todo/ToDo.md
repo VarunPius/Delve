@@ -1,3 +1,12 @@
+https://dev.to/jon_snow789/20-github-repositories-every-developer-should-bookmarkhigh-value-resources-4jm6?utm_source=pocket_saves
+    - Dev Roadmap
+    - https://github.com/practical-tutorials/project-based-learning
+    - https://github.com/codecrafters-io/build-your-own-x
+
+
+# PYTHON:
+https://mathspp.com/blog/pydonts/dunder-methods
+
 # Create blog
 https://github.com/gregrickaby/nextjs-github-pages
 https://dev.to/github/how-to-host-a-static-nextjs-site-on-github-pages-4pe0
@@ -76,4 +85,30 @@ CAST(EXTRACT(HOUR FROM ((q.FirstRespTime - q.StartTime) HOUR(3) TO SECOND(6) ) )
 -- Specify your user name and Query band
 WHERE USERNAME = <USER_NAME>
 AND QUERYBAND ='UUID=19c1ccc5-ff2a-4d2d-8114-1fb625ad44df;';
+
+
+# Projects:
+ 1. Master Python: https://lnkd.in/e5rCbvP8
+ 2. Learn SQL: https://lnkd.in/efMKFkfX
+ 3. Learn MySQL: https://lnkd.in/efk-Mi3c
+ 4. Learn MongoDB: https://lnkd.in/eMKPWtqX
+ 5. Dominate PySpark: https://lnkd.in/exwA2hKz
+ 6. Learn Bash, Airflow & Kafka: https://lnkd.in/eyN6u2yd
+ 7. Learn Git & GitHub: https://lnkd.in/eX_Q8s99
+ 8. Learn CICD basics: https://lnkd.in/epKGivFY
+ 9. Decode Data Warehousing: https://lnkd.in/eKnVbFAB
+10. Learn DBT: : https://lnkd.in/eG9eaEuE
+11. Learn Data Lakes: https://lnkd.in/eQ9xxAJT
+12. Learn DataBricks: https://lnkd.in/ePZpCv86
+13. Learn Azure Databricks: https://lnkd.in/eBij4akJ
+14. Learn Snowflake: https://lnkd.in/erETmtFU
+15. Learn Apache NiFi: http://bit.ly/43btwYy
+16. Learn Debezium: http://bit.ly/3K6W5gL
+
+Boost Your expertise & Portfolio with 5 Must-Try Projects:
+1. Reddit ETL Pipeline - https://lnkd.in/ekmgzGc8
+2. Surfline Dashboard - https://lnkd.in/e6AdaDzz
+3. Finnhub Streaming Data Pipeline - https://lnkd.in/eCF5kZvE
+4. Audiophile End-To-End ELT Pipeline - https://lnkd.in/ercYzXtX
+5. Streamify - https://lnkd.in/ePiEwH5k
 
