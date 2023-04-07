@@ -1,3 +1,5 @@
+https://dev.to/anuraggharat/how-to-create-a-blog-using-nextjs-and-markdown-3j9o
+
 https://dev.to/jon_snow789/20-github-repositories-every-developer-should-bookmarkhigh-value-resources-4jm6?utm_source=pocket_saves
     - Dev Roadmap
     - https://github.com/practical-tutorials/project-based-learning
