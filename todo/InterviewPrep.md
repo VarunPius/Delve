@@ -1,3 +1,13 @@
+---
+title: 'Interview Preparation'
+metaTitle: 'My First blog in Interview Preparation'
+metaDesc: 'How to make a blogging website using Next.js, Markdown and style it using TailwindCSS.'
+socialImage: images/pic1.jpg
+date: '2023-04-07'
+tags:
+  - interview
+---
+
 # About the Article
 > https://www.teamblind.com/post/7-onsites-7-offers-aAFTykAD
 Have always used Blind to get great insights into my industry, wanted to share my recent job search results and materials I used for studying.
