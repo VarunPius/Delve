@@ -4,6 +4,12 @@ https://dev.to/jon_snow789/20-github-repositories-every-developer-should-bookmar
     - Dev Roadmap
     - https://github.com/practical-tutorials/project-based-learning
     - https://github.com/codecrafters-io/build-your-own-x
+    - https://github.com/yangshun/tech-interview-handbook
+    - https://github.com/TheAlgorithms
+    - https://github.com/EbookFoundation/free-programming-books
+    - https://github.com/public-apis/public-apis
+    - https://github.com/jwasham/coding-interview-university
+    - https://github.com/30-seconds/30-seconds-of-code
 
 
 # PYTHON:
