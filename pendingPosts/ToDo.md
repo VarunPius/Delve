@@ -86,3 +86,17 @@ CAST(EXTRACT(HOUR FROM ((q.FirstRespTime - q.StartTime) HOUR(3) TO SECOND(6) ) )
 WHERE USERNAME = <USER_NAME>
 AND QUERYBAND ='UUID=19c1ccc5-ff2a-4d2d-8114-1fb625ad44df;';
 
+# architecture and design
+- Twitter Snowflake: https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake
+- Career projects:
+  Description: Media to look at for inspiration about career
+  Playlist:
+    - AWS Reinvent Use cases: https://www.youtube.com/playlist?list=PL2yQDdvlhXf8re22uN1Wp5zuvu96MtVbj
+    - Demonware Lookup: https://www.activision.com/cdn/research/The_Road_to_Direct_Lookups.pdf
+    - Discord:
+      - https://www.youtube.com/watch?v=xynXjChKkJc
+      - https://discord.com/blog/how-discord-stores-trillions-of-messages
+      - https://discord.com/blog/how-discord-stores-billions-of-messages
+    - AWS Lambda:
+      - https://www.youtube.com/playlist?list=PL5KTLzN85O4KO0qEeUVvwTTcHFsdE6Dhx
+      - https://www.youtube.com/@BeABetterDev/playlists
